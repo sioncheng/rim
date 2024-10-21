@@ -14,12 +14,13 @@ const BottomChat = () => {
         style={{ height: "calc(100%)" }}
       >
         <ChatMessage />
-        <p>d</p>
-        <p>d</p>
-        <p>d</p> <p>d</p>
-        <p>d</p>
-        <p>d</p>
-        <p>d</p>
+        <p>0o</p>
+        <p>0o</p>
+        <p>0o</p>
+        <p>0o</p>
+        <p>0o</p>
+        <p>0o</p>
+        <p>0o</p>
         <p>d</p>
         <p>d</p>
         <p>d</p>
