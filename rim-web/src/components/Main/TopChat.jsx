@@ -13,7 +13,7 @@ import {
 
 const TopChat = () => {
   return (
-    <div id="top-chat" className="flex">
+    <div id="top-chat" className="flex pt-1">
       <UsersIcon className="h-11 mr-1" />
       <div className="ml-1 w-[100%]">
         <div id="session-top" className="flex items-center justify-center">

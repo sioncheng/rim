@@ -4,10 +4,9 @@ import SidebarMenu from "./SidebarMenu";
 
 const Sidebar = () => {
   return (
-    <div id="side-bar" className="mt-2 p-2 w-[15%]">
+    <div id="side-bar" className="mt-1 p-2 flex flex-col w-full">
       <SidebarTop />
       <SidebarMenu />
-      Sidebar
     </div>
   );
 };
